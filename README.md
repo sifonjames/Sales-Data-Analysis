@@ -22,7 +22,11 @@ The primary source of this data is from my project topic.
      using charts and graphs, a visual representation of the data was uncovered for easy understanding of the analysis
    
 - STUCTURED QUERY LANGUAGE [ Download here](http://www.microsoft.com)
--  power Bi
+  1. For quering Data
+     
+- POWER BI
+  1. For data visualization:
+     
 
 ## Analysis
 - Data cleaning and processing

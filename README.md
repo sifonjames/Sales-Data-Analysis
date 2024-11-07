@@ -13,15 +13,15 @@ The primary source of this data is from my project topic.
 ## Tools Used
 ---
 - Microsoft Excel [Download here](https:www.microsoft.com)
-1. Data entry and storage
+1. Data entry and storage:
    The data was uploaded on excel and stored properly in files for analysis.
-2. Data analysis and filtering
+2. Data analysis and filtering:
    The data contained duplicate data which were filtered to prevent inaccurate analysis. The data was analysed uncovering insights that helped to identify the trends of sales of the 
    retail store. The analysis included top selling products, regional performance, total revenue etc.
-3. Data visualization
+3. Data visualization:
    using charts and graphs, a visual representation of the data was uncovered for easy understanding of the analysis
    
-- Structured query language [ Download here] h
+- Structured query language [ Download here](http://www.microsoft.com)
 -  power Bi
 
 ## Analysis

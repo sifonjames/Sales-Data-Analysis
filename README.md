@@ -30,17 +30,22 @@ The primary source of this data is from my project topic.
   2. Data Analysis; Analyse data from variious sources
   3. Data modelling: create data models using DAX
      
-- Data cleaning and processing
+  The following were carried out on Microsoft excel
+  ### Data cleaning and processing
+  ---
   During data cleaning and processing in excel the following steps were carried out;
   1. Data inspection: To identify missing duplictaes or erroneous data
   2. Duplicate  Removal: Identical records were eliminated
      ![image](https://github.com/user-attachments/assets/968e566c-145f-42ce-825c-f6af9f90be3a)
 
-- Exploratory Data Analysis
-  This involved exploring the retail stiore data to answer the following questions
-  1. What is the average sales per product
-  2. Total revenue by region
-  3. Total sale by products
+ ### Exploratory Data Analysis
+  ---
+  This involved exploring the retail store data to answer the following questions
+  1. What is the total sales by month: The perfprmance of the store monthly.
+  2. Total sales by region: To see the amount of sales made in each region.
+  3. Total sale by products: To see which product had the most sale.
+   ![image](https://github.com/user-attachments/assets/34012f63-2afb-457f-83d0-2b87ec6c6759)
+
 
 
 

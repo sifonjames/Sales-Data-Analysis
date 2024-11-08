@@ -28,14 +28,19 @@ The primary source of this data is from my project topic.
 - Power Bi[ Download here](https://power-bi-desktop.en.softonic.com/download)
   1. For data visualization: For creating interactive dashboards and reports
   2. Data Analysis; Analyse data from variious sources
-  3. DAta modelling: create data models using DAX
+  3. Data modelling: create data models using DAX
      
 - Data cleaning and processing
   During data cleaning and processing in excel the following steps were carried out;
   1. Data inspection: To identify missing duplictaes or erroneous data
-  2. Duplicate  REmoval: Identical records were eliminated
-     
-  4. 
+  2. Duplicate  Removal: Identical records were eliminated
+     ![image](https://github.com/user-attachments/assets/968e566c-145f-42ce-825c-f6af9f90be3a)
+
+- Exploratory Data Analysis
+  This involved exploring the retail stiore data to answer the following questions
+  1. What is the average sales per product
+  2. Total revenue by region
+  3. Total sale by products
 
 
 

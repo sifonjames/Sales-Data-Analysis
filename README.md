@@ -1,4 +1,4 @@
-Welcome to Data analysis Portfolio! Here you'll find some of my data analysis project
+Welcome to my Data analysis Portfolio! Here you'll find some of my data analysis project
 
 # Sales Analysis Of a Retail Store
 

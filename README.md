@@ -30,15 +30,15 @@ The primary source of this data is from my project topic.
   2. Data Analysis; Analyse data from variious sources
   3. Data Modelling: create data models using DAX
      
-  The following were carried out on Microsoft excel
-  ### Data cleaning and processing
+The following were carried out on Microsoft excel
+### Data cleaning and processing
   ---
   During data cleaning and processing in excel the following steps were carried out;
   1. Data inspection: To identify missing duplictaes or erroneous data
   2. Duplicate  Removal: Identical records were eliminated
      ![image](https://github.com/user-attachments/assets/968e566c-145f-42ce-825c-f6af9f90be3a)
 
- ### Exploratory Data Analysis
+### Exploratory Data Analysis
   ---
   This involved exploring the retail store data to answer the following questions
   1. What is the total sales by month: The performance of the store monthly.
@@ -48,11 +48,13 @@ The primary source of this data is from my project topic.
 
 ### Data Visualization
 ---
-Using charts an d graphs 
-
+Using charts and graphs 
+![image](https://github.com/user-attachments/assets/c709cab0-65e9-454b-b4ce-1b57f1982fbf)
 
 ### Data Analysis
 ---
+On structured query Language. This were we included some lines of codes
+
 
 
 

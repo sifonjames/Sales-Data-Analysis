@@ -54,6 +54,11 @@ Using charts and graphs
 ### Data Analysis
 ---
 On structured query Language. This were we included some lines of codes
+```SQL
+select PRODUCT, SUM(sales) as TOTAL_SALES 
+from [dbo].[LIta CAPSTONE, SALES DATA]
+group by product;
+```
 
 
 

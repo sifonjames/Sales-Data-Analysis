@@ -59,6 +59,11 @@ select PRODUCT, SUM(sales) as TOTAL_SALES
 from [dbo].[LIta CAPSTONE, SALES DATA]
 group by product;
 ```
+```SQL
+select Region , count(sales) as SALES_TRANSACTION
+from[dbo].[LIta CAPSTONE, SALES DATA]
+group by Region
+```
 
 
 
